@@ -1,9 +1,0 @@
-{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
-{"level":"error","message":"Error: Incorrectly defined input","service":"calculate-service"}
-{"level":"error","message":"Error: Incorrectly defined input","service":"calculate-service"}
-{"level":"error","message":"Error: Incorrectly defined input","service":"calculate-service"}
-{"level":"error","message":"Error: Incorrectly defined input. Enter numerical values only!","service":"calculate-service"}
-{"level":"error","message":"Error: Incorrectly defined input. Enter numerical values only!","service":"calculate-service"}
-{"level":"error","message":"Error: Incorrectly defined input. Enter numerical values only!","service":"calculate-service"}
-{"level":"error","message":"Error: Division by zero","service":"calculate-service"}
-{"level":"error","message":"Error: Incorrectly defined input. Enter numerical values only!","service":"calculate-service"}
