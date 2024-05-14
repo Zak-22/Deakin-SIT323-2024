@@ -1,0 +1,18 @@
+{
+  "name": "sit323-2024-t1-prac",
+  "version": "1.0.0",
+  "description": "SIT 323 T1 week 10 prac",
+  "main": "server.js",
+  "scripts": {
+      "start": "node server_get.js"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Zak-22/Deakin-SIT323-2024.git"
+  },
+  "author": "Zak Constable",
+  "license": "MIT",
+  "dependencies": {
+      "express": "^4.18.3"
+  }
+}
